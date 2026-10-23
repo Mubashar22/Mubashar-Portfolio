@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600">
+  <defs>
+  <symbol id="logo-nabils-kitchen" viewBox="0 0 244 38"><image href="data:image/png;base64,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" width="244" height="38"/></symbol>
+  
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFF3D6"/>
+      <stop offset="100%" stop-color="#FBE7B8"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F9DA8C"/>
+      <stop offset="100%" stop-color="#F2C230"/>
+    </linearGradient>
+    <linearGradient id="base" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#D7DBDE"/>
+      <stop offset="100%" stop-color="#A6ACB2"/>
+    </linearGradient>
+    <clipPath id="clipLaptop"><rect x="106" y="56" width="568" height="340" rx="6"/></clipPath>
+    <clipPath id="clipTablet"><rect x="534" y="264" width="222" height="278" rx="10"/></clipPath>
+    <clipPath id="clipPhone"><rect x="740" y="310" width="130" height="260" rx="20"/></clipPath>
+  </defs>
+
+  <rect width="960" height="600" fill="url(#bg)"/>
+
+  <ellipse cx="390" cy="440" rx="260" ry="18" fill="#D93B3B" opacity=".08"/>
+  <ellipse cx="645" cy="558" rx="120" ry="14" fill="#D93B3B" opacity=".1"/>
+  <ellipse cx="805" cy="586" rx="75" ry="10" fill="#D93B3B" opacity=".12"/>
+
+  <!-- ===== LAPTOP ===== -->
+  <rect x="90" y="40" width="600" height="372" rx="20" fill="#1B1B1D"/>
+  <path d="M90,412 L690,412 L736,432 L44,432 Z" fill="url(#base)"/>
+  <rect x="90" y="409" width="600" height="4" fill="#000" opacity=".25"/>
+  <rect x="335" y="418" width="60" height="6" rx="3" fill="#000" opacity=".2"/>
+
+  <g clip-path="url(#clipLaptop)">
+    <rect x="106" y="56" width="568" height="340" fill="#FFF8EA"/>
+    <rect x="106" y="56" width="568" height="42" fill="#FFF8EA"/>
+    <rect x="106" y="97" width="568" height="1" fill="#EDD9AE"/>
+    <circle cx="126" cy="77" r="4" fill="#FF5F57"/>
+    <circle cx="140" cy="77" r="4" fill="#FEBC2E"/>
+    <circle cx="154" cy="77" r="4" fill="#28C840"/>
+    <use href="#logo-nabils-kitchen" x="176" y="68" width="116" height="18"/>
+
+    <rect x="106" y="98" width="568" height="150" fill="url(#hero)"/>
+    <text x="146" y="155" font-family="Georgia, serif" font-size="40" font-weight="600" fill="#241811">LIFE BEGINS</text>
+    <text x="146" y="196" font-family="Georgia, serif" font-size="40" font-weight="600" fill="#241811">AFTER FLAVOUR</text>
+    <rect x="146" y="210" width="230" height="30" rx="15" fill="#D93B3B"/>
+    <text x="261" y="230" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700" fill="#FFFFFF">Butter Chicken · Burgers · Pizza</text>
+
+    <g font-family="Georgia, serif">
+      <rect x="126" y="266" width="156" height="110" rx="10" fill="#FFFFFF" stroke="#241811"/>
+      <rect x="126" y="266" width="156" height="30" rx="10" fill="#F2C230"/>
+      <text x="204" y="286" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#241811">VEGAN</text>
+      <circle cx="204" cy="330" r="20" fill="#FBE7B8"/>
+      <rect x="150" y="358" width="108" height="8" rx="4" fill="#F0DCB0"/>
+
+      <rect x="298" y="266" width="156" height="110" rx="10" fill="#FFFFFF" stroke="#241811"/>
+      <rect x="298" y="266" width="156" height="30" rx="10" fill="#D93B3B"/>
+      <text x="376" y="286" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#FFFFFF">BURGERS</text>
+      <circle cx="376" cy="330" r="20" fill="#FBE7B8"/>
+      <rect x="322" y="358" width="108" height="8" rx="4" fill="#F0DCB0"/>
+
+      <rect x="470" y="266" width="156" height="110" rx="10" fill="#FFFFFF" stroke="#241811"/>
+      <rect x="470" y="266" width="156" height="30" rx="10" fill="#F2C230"/>
+      <text x="548" y="286" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#241811">SEAFOOD</text>
+      <circle cx="548" cy="330" r="20" fill="#FBE7B8"/>
+      <rect x="494" y="358" width="108" height="8" rx="4" fill="#F0DCB0"/>
+    </g>
+  </g>
+
+  <!-- ===== TABLET ===== -->
+  <rect x="520" y="250" width="250" height="320" rx="26" fill="#1B1B1D"/>
+  <rect x="595" y="556" width="40" height="5" rx="2.5" fill="#4A4A4D"/>
+  <g clip-path="url(#clipTablet)">
+    <rect x="534" y="264" width="222" height="278" fill="#FFF8EA"/>
+    <rect x="534" y="264" width="222" height="26" fill="#FFF8EA"/>
+    <circle cx="548" cy="277" r="3" fill="#FF5F57"/>
+    <circle cx="558" cy="277" r="3" fill="#FEBC2E"/>
+    <circle cx="568" cy="277" r="3" fill="#28C840"/>
+    <use href="#logo-nabils-kitchen" x="584" y="271" width="70" height="11"/>
+
+    <rect x="534" y="290" width="222" height="90" fill="url(#hero)"/>
+    <text x="548" y="322" font-family="Georgia, serif" font-size="22" font-weight="600" fill="#241811">LIFE BEGINS</text>
+    <text x="548" y="346" font-family="Georgia, serif" font-size="22" font-weight="600" fill="#241811">AFTER FLAVOUR</text>
+    <rect x="548" y="356" width="120" height="16" rx="8" fill="#D93B3B"/>
+    <text x="608" y="367" text-anchor="middle" font-family="Georgia, serif" font-size="7" font-weight="700" fill="#FFFFFF">View Menu</text>
+
+    <rect x="548" y="392" width="93" height="56" rx="8" fill="#FFFFFF" stroke="#241811"/>
+    <rect x="548" y="392" width="93" height="18" rx="8" fill="#F2C230"/>
+    <text x="594" y="405" text-anchor="middle" font-family="Georgia, serif" font-size="9" font-weight="600" fill="#241811">VEGAN</text>
+
+    <rect x="649" y="392" width="93" height="56" rx="8" fill="#FFFFFF" stroke="#241811"/>
+    <rect x="649" y="392" width="93" height="18" rx="8" fill="#D93B3B"/>
+    <text x="695" y="405" text-anchor="middle" font-family="Georgia, serif" font-size="8" font-weight="600" fill="#FFFFFF">BURGERS</text>
+
+    <rect x="548" y="456" width="194" height="56" rx="8" fill="#FFFFFF" stroke="#241811"/>
+    <rect x="548" y="456" width="194" height="18" rx="8" fill="#F2C230"/>
+    <text x="645" y="469" text-anchor="middle" font-family="Georgia, serif" font-size="9" font-weight="600" fill="#241811">SEAFOOD</text>
+  </g>
+
+  <!-- ===== PHONE ===== -->
+  <rect x="730" y="300" width="150" height="280" rx="32" fill="#1B1B1D"/>
+  <rect x="781" y="300" width="44" height="14" rx="7" fill="#1B1B1D"/>
+  <rect x="785" y="566" width="40" height="4" rx="2" fill="#4A4A4D"/>
+  <g clip-path="url(#clipPhone)">
+    <rect x="740" y="310" width="130" height="260" fill="#FFF8EA"/>
+    <rect x="740" y="310" width="130" height="20" fill="#FFF8EA"/>
+    <use href="#logo-nabils-kitchen" x="750" y="316" width="51" height="8"/>
+
+    <rect x="740" y="330" width="130" height="90" fill="url(#hero)"/>
+    <text x="750" y="354" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#241811">LIFE BEGINS</text>
+    <text x="750" y="373" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#241811">AFTER FLAVOUR</text>
+    <rect x="750" y="384" width="80" height="16" rx="8" fill="#D93B3B"/>
+    <text x="790" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="6.5" font-weight="700" fill="#FFFFFF">View Menu</text>
+
+    <rect x="750" y="420" width="110" height="42" rx="6" fill="#FFFFFF" stroke="#241811"/>
+    <rect x="750" y="420" width="110" height="14" rx="6" fill="#F2C230"/>
+    <text x="805" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="8" font-weight="600" fill="#241811">VEGAN</text>
+
+    <rect x="750" y="470" width="110" height="42" rx="6" fill="#FFFFFF" stroke="#241811"/>
+    <rect x="750" y="470" width="110" height="14" rx="6" fill="#D93B3B"/>
+    <text x="805" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="8" font-weight="600" fill="#FFFFFF">BURGERS</text>
+  </g>
+</svg>
